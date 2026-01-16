@@ -1,6 +1,7 @@
 {
-  "Global News BC": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/global.png",
-  "Global News": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/global.png",
+  "Global News BC": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/global-bc-ca.png",
+  "Global News Toronto": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/global-toronto-ca.png",
+  "Global News Montreal": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/global-montreal-ca.png",
   "CBC": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/cbc.png",
   "CBC News Network": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/cbc-news-network.png",
   "CTV": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/ctv.png",
@@ -10,5 +11,9 @@
   "HBO": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/united-states/hbo.png",
   "TSN": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/tsn.png",
   "TSN 1": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/tsn1.png",
-  "Sportsnet": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/sportsnet.png"
+  "Sportsnet": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/canada/sportsnet.png",
+  "AMC USA": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/united-states/amc-us.png",
+  "AAJ TAK": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/india/aaj-tak-in.png",
+  "AAJ TAK 4K": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/india/aaj-tak-hd-in.png",
+  "ZEE TV 4K India": "https://raw.githubusercontent.com/hardeepsasan/tv-logos/main/countries/india/zee-tv-hd-in.png"
 }
